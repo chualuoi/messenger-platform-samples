@@ -1,0 +1,2 @@
+C:\Users\danguyen.CI\Source\Repos\messenger-platform-samples\obj\Debug\FacebookMessenger.njsprojResolveAssemblyReference.cache
+C:\Users\danguyen.CI\Source\Repos\messenger-platform-samples\bin\Microsoft.NodejsTools.WebRole.dll
